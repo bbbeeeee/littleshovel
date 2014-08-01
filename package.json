@@ -1,8 +1,12 @@
 {
   "name": "littleshovel",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "Easy get functions for scraping sites",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btroo/littleshovel"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -13,6 +17,15 @@
     "'get",
     "text'"
   ],
-  "author": "Brandon Truong",
-  "license": "MIT"
+  "author": {
+    "name": "Brandon Truong"
+  },
+  "license": "MIT",
+  "gitHead": "a9b132322cc7a78b12f63dffc43ca2f92d10edfc",
+  "_id": "littleshovel@0.0.1",
+  "_shasum": "b3b22971cfd513dc33214fe136bb3e3e9cf6c110",
+  "_from": "littleshovel@",
+  "dependencies": {
+    "html-to-text": "^0.1.0"
+  }
 }
