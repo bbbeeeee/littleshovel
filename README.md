@@ -23,7 +23,6 @@ Calls a get request to given url
 #### getText(url, callback)
 * *url* - URL of site you want to get
 * *callback* - Called when data from site is returned. Receives text of response as parameter.
-* 
 
 ### Experimental
 
