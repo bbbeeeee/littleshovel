@@ -1,7 +1,7 @@
 littleshovel
 ============
 
-Simple get functions to scrape websites
+Simple functions to scrape websites
 
 ## Installation 
 ```
