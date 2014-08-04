@@ -18,7 +18,9 @@
     "text'"
   ],
   "author": {
-    "name": "Brandon Truong"
+    "name": "Brandon Truong",
+    "email": "me@brandontruong.com",
+    "url": "http://brandontruong.com"
   },
   "license": "MIT",
   "gitHead": "a9b132322cc7a78b12f63dffc43ca2f92d10edfc",
