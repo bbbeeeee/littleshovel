@@ -1,6 +1,8 @@
 littleshovel
 ============
 
+**Realized there is already stuff out there for this. Deprecated :|**
+
 Simple functions to scrape websites
 
 ## Installation 
